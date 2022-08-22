@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Artem 👋
+A beginner Data Scientist who is being trained at Yandex Practicum. I have no work experience, but I have a great desire to learn this business.
 
-<!--
-**arsepan/arsepan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Technical Stack
+*   Python language
+*   pandas, sqlite3, numpy, matplotlib, seaborn, sklearn
+*   Mathematical base : probability theory, statistics, numerical methods, mathematical analysis, linear algebra
+*   Algorithms : Decision tree, random forest, logistic and linear regression, KNN, SVM
+*   GitHub
 
-Here are some ideas to get you started:
+### My opensource projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   [Hotel chain "As a guest"](https://github.com/romankh3/image-comparison) - it is necessary to develop a system that predicts the rejection of armor. If the model shows that the reservation will be canceled, the client is invited to make a deposit.
+*   [Location drilling of a well](https://github.com/javarushcommunity/javarush-telegrambot) - You have been provided with oil samples in three regions: in each 10,000 fields, where the quality of oil and the volume of its reserves were measured. Build a machine learning model that will help determine the region where mining will bring the greatest profit. Analyze the possible profits and risks with the Bootstrap technique.
+*   [Analysis of the Russian film distribution market](https://github.com/romankh3/skyscanner-flight-api-client) - You need to study the Russian film distribution market and identify current trends. Pay attention to the films that have received state support. Try to answer the question of how interesting such films are to the viewer.

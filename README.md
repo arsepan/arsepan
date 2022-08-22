@@ -3,12 +3,20 @@ A beginner Data Scientist who is being trained at Yandex Practicum. I have no wo
 
 ## 🛠 Technical Stack
 *   Python language
-*   pandas, SQL, numpy, matplotlib, seaborn, sklearn
+*   pandas, SQL, numpy, matplotlib, seaborn, sklearn, a little experience with Power BI and NN
 *   Mathematical base : probability theory, statistics, numerical methods, mathematical analysis, linear algebra
 *   Algorithms : Decision tree, random forest, logistic and linear regression, KNN, SVM
 *   GitHub
 
-### My opensource projects
+
+## ⚡ Skills
+*   The ability to convey your idea
+*   Teamwork
+*   Critical thinking
+*   Ability to see the commercial side of the issue
+*   Willingness to work hard
+
+### 🗂 My main opensource projects
 
 *   [Hotel chain "As a guest"](https://github.com/arsepan/Hotel-Chain/blob/main/Машинка%20сетей%20отеля.ipynb) - it is necessary to develop a system that predicts the rejection of armor. If the model shows that the reservation will be canceled, the client is invited to make a deposit.
 *   [Location drilling of a well](https://github.com/arsepan/Oil/blob/main/b719bf01-2e56-428b-a074-6e20bc47348b.ipynb) - You have been provided with oil samples in three regions: in each 10,000 fields, where the quality of oil and the volume of its reserves were measured. Build a machine learning model that will help determine the region where mining will bring the greatest profit. Analyze the possible profits and risks with the Bootstrap technique.

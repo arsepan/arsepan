@@ -3,7 +3,13 @@
 
 ## 🛠 Технический стек
 *   Язык программирования Python
-*   pandas, SQL, numpy, matplotlib, seaborn, sklearn, PyTorch, Keras
+*   pandas, numpy, matplotlib, seaborn, sklearn
+*   LightGBM, CatBoost, XGBoost
+*   PyTorch, Keras, TensorFlow
+*   BERT, ResNet (и др. модели из зоопарка Keras)
+*   Spark, Hadoop
+*   Bootstrap, A/B тестирование
+*   Базы данных, SQL
 *   Математическая база (теория вероятности, статистика, численные методы, мат. анализ, лин. алгебра)
 *   Git, GitHub
 
